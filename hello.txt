@@ -10,5 +10,5 @@ HELLO WORLD! hello git!
 HELLO WORLD! hello git!
 HELLO WORLD! hello git!
 HELLO WORLD! hello git!
-HELLO WORLD! hello git!
+HELLO WORLD! hello git! hot-fix
 
